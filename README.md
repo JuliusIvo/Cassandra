@@ -1,0 +1,2 @@
+# CassandraApp
+NoSQL Cassandra assignment
